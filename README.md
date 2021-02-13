@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/GpwTUC5y.gif" width=350><br>
+<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/GpwTUC5y.gif" width=250><br>
 
 ### Notes
 The TMDb documentations provided an http:// link which Xcode wasn't allowing me to use but after figuring that out and adding the 's' to change the URL to have https://, it all worked fine.
