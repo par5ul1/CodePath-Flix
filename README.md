@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-<img src="https://s2.gifyu.com/images/ezgif.com-gif-maker9c234db25159e6f2.gif" width=250><br>
+<img src="https://s2.gifyu.com/images/ezgif.com-gif-maker-17f599eb257b85f57.gif" width=350><br>
 
 ### Notes
 The TMDb documentations provided an http:// link which Xcode wasn't allowing me to use but after figuring that out and adding the 's' to change the URL to have https://, it all worked fine.
